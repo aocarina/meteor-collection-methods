@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ocarina:collection-methods',
-  version: '1.0.2',
+  version: '1.0.3',
   // Brief, one-line summary of the package.
   summary: 'Transform your collections with methods that you define',
   // URL to the Git repository containing the source code for this package.
